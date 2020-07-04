@@ -12,7 +12,7 @@
   - [Embouchures des cuivres](desinfection/cuivres.md)
   - [Tête de flûte](desinfection/flutes.md)
   - [Bocal du cor anglais et du basson](desinfection/bocal.md)
-  - [Coude de saxophone](desinfection/bocal.md)
+  - [Coude de saxophone](desinfection/sax.md)
   - [Flûte à bec en plastique](desinfection/flute_a_bec.md)
   - [Autres instruments](desinfection/autres.md)
   - [Instruments à cordes](desinfection/cordes.md)

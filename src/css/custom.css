@@ -1,0 +1,8 @@
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 1 1 50%;
+  align-self: center
+}

@@ -10,3 +10,6 @@ enseignant, compositeur et organisateur d'événement musical et la Fédération
 Harmonies et Orchestres Symphoniques du Québec (FAMEQ), pour les membres de la
 FAMEQ et de la Fédération des Associations de Musiciens Éducateurs du Québec.
 Version élaborée selon les encadrements du 2 juillet 2020."""
+
+[output.html]
+additional-css = ["src/css/custom.css"]
