@@ -14,3 +14,12 @@ before_script:
 
 script:
   - mdbook build
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: 6bd92997e1c4623010b6fbd7659d27cdd8cffec4
+  local-dir: ./book
+  keep-history: false
+  on:
+    branch: master
