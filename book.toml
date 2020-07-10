@@ -13,3 +13,4 @@ Version élaborée selon les encadrements du 2 juillet 2020."""
 
 [output.html]
 additional-css = ["src/css/custom.css"]
+additional-js = ["src/js/custom.js"]
